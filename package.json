@@ -1,0 +1,14 @@
+{
+  "name": "hello-cubejs-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.28.15",
+  "devDependencies": {
+    "@cubejs-backend/server": "^0.28.15",
+    "@cubejs-backend/sqlite-driver": "^0.28.14"
+  }
+}
